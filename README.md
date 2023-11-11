@@ -1,2 +1,6 @@
 # app-dev
-My First Repositroy
+My First Repository
+# My Favorite Siries / Movies
+- The Boys
+- Breaking Bad
+- Doona!
